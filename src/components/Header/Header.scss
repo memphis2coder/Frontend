@@ -1,0 +1,11 @@
+$titleColor: rgb(136, 136, 196);
+
+
+.jumbotron--custom {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    
+    h1 {
+        color: $titleColor;
+    }
+}
